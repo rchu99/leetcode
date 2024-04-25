@@ -1,3 +1,4 @@
+#Vector array with mutuable functions
 class Vector:
     def __init__(self):
         self.capacity = 2  # Set an initial capacity of 2
